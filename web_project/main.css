@@ -110,6 +110,10 @@ text-align: center;
   animation-duration: 1.5s;
 }
 
+.mySlides {
+  display: none;
+}
+
 @keyframes fade {
   from {opacity: .4} 
   to {opacity: 1}
